@@ -5,3 +5,5 @@ Vovochka 3
 Alena 9
 Boris 7
 Kate 8
+Anna 9
+Michael 10
