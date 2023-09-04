@@ -3,5 +3,5 @@ Petya 6
 Maria 7
 Vovochka 3
 Alena 9
-Boris 9
+Boris 7
 Kate 8
