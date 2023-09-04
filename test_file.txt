@@ -1,5 +1,6 @@
 Vasya 10
 Kolya 4
 Petya 6
-Anna 7
 Maria 7
+Vovochka 3
+Alena 9
